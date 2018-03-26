@@ -14,6 +14,8 @@ Mock.js 模拟数据生成器 [http://mockjs.com](http://mockjs.com/)
 
 jQuery插件库 http://www.jq22.com/
 
+Chrome插件下载 http://www.cnplugins.com/
+
 ## 教程/技术：
 
 菜鸟教程 http://www.runoob.com/
