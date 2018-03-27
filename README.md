@@ -4,6 +4,8 @@ css转jsx https://staxmanade.com/CssToReact/
 
 渐变背景图制作 http://gradient.awesomes.cn/
 
+SVG背景图制作 https://www.svgbackgrounds.com/
+
 同步测试工具 http://www.browsersync.cn/
 
 Mock.js 模拟数据生成器 [http://mockjs.com](http://mockjs.com/)
@@ -14,7 +16,9 @@ Mock.js 模拟数据生成器 [http://mockjs.com](http://mockjs.com/)
 
 jQuery插件库 http://www.jq22.com/
 
-Chrome插件下载 http://www.cnplugins.com/
+国内的Chrome插件下载 http://www.cnplugins.com/
+
+国外的Chrome插件下载 https://www.crx4chrome.com
 
 ## 教程/技术：
 
@@ -51,6 +55,8 @@ github [https://www.github.com](https://www.github.com)
 大前端 http://www.daqianduan.com/
 
 前端网 https://www.qdfuns.com/
+
+segmentfault https://segmentfault.com/
 
 ## 综合：
 
