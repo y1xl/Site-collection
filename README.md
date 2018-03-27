@@ -22,12 +22,6 @@ Chrome插件下载 http://www.cnplugins.com/
 
 MDN文档 https://developer.mozilla.org/zh-CN/
 
-阮一峰的网络日志 http://www.ruanyifeng.com/blog/
-
-技术胖博客 http://jspang.com/
-
-游龙博客 http://www.youlongit.com/
-
 腾讯移动Web前端知识库 [https://github.com/AlloyTeam/Mars](https://github.com/AlloyTeam/Mars)
 
 图解phpstorm常用快捷键 https://www.cnblogs.com/xp796/p/5718321.html
@@ -43,6 +37,12 @@ js模块化 https://segmentfault.com/a/1190000012464333#articleHeader9
 MUI开发 http://edu.51cto.com/course/8001.html?edu_recommend_adid=87
 
 ## 博客/社区：
+
+阮一峰的网络日志 http://www.ruanyifeng.com/blog/
+
+技术胖博客 http://jspang.com/
+
+游龙博客 http://www.youlongit.com/
 
 github [https://www.github.com](https://www.github.com)
 
