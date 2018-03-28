@@ -10,7 +10,9 @@ SVG背景图制作 https://www.svgbackgrounds.com/
 
 Mock.js 模拟数据生成器 [http://mockjs.com](http://mockjs.com/)
 
-bootstrap按钮样式生成 http://blog.koalite.com/bbg/
+bootstrap按钮样式生成器 http://blog.koalite.com/bbg/
+
+loading动画样式生成器 http://loading.awesomes.cn/
 
 ## 插件/资源：
 
