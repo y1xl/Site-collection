@@ -14,15 +14,19 @@ bootstrap按钮样式生成器 http://blog.koalite.com/bbg/
 
 loading动画样式生成器 http://loading.awesomes.cn/
 
+在线图片滤镜效果可视化工具 http://filter.awesomes.cn/
+
 ## 插件/资源：
 
 前端资源库 https://www.awesomes.cn/
 
-jQuery插件库 http://www.jq22.com/
+jQuery插件库 http://www.jq22.com/ 
 
 国内的Chrome插件下载 http://www.cnplugins.com/
 
 国外的Chrome插件下载 https://www.crx4chrome.com
+
+浏览器插件下载中心 https://www.chromefor.com/
 
 ## 教程/技术：
 
@@ -61,6 +65,8 @@ github [https://www.github.com](https://www.github.com)
 前端网 https://www.qdfuns.com/
 
 segmentfault https://segmentfault.com/
+
+掘金 https://juejin.im/
 
 ## 综合：
 
