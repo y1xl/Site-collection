@@ -68,7 +68,7 @@ github [https://www.github.com](https://www.github.com)
 
 segmentfault https://segmentfault.com/
 
-掘金 https://juejin.im/
+掘金 https://juejin.im/ ----个人掘金 https://juejin.im/user/5ac5964c6fb9a028b86e3e4d
 
 ## 综合：
 
