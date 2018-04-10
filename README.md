@@ -16,6 +16,8 @@ loading动画样式生成器 http://loading.awesomes.cn/
 
 在线图片滤镜效果可视化工具 http://filter.awesomes.cn/
 
+查看页面HTML大纲 http://h5o.github.io/
+
 ## 插件/资源：
 
 前端资源库 https://www.awesomes.cn/
