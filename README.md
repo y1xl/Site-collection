@@ -30,6 +30,8 @@ jQuery插件库 http://www.jq22.com/
 
 浏览器插件下载中心 https://www.chromefor.com/
 
+软件资源下载 https://www.7down.com/
+
 内網穿透服務 `[` https://natapp.cn/ , https://ngrok.com/ , http://ngrok.2bdata.com/ , http://www.ultrahook.com/ `]`
 
 ## 教程/技术：
