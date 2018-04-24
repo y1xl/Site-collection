@@ -18,6 +18,8 @@ loading动画样式生成器 http://loading.awesomes.cn/
 
 查看页面HTML大纲 http://h5o.github.io/
 
+分析用户的 GitHub 数据的网站 https://gitfa.me/
+
 ## 插件/资源：
 
 前端资源库 https://www.awesomes.cn/
