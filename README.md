@@ -54,7 +54,7 @@ js教程 http://javascript.info/
 
 js模块化 https://segmentfault.com/a/1190000012464333#articleHeader9
 
-MUI开发 http://edu.51cto.com/course/8001.html?edu_recommend_adid=87
+
 
 ## 博客/社区：
 
@@ -63,6 +63,8 @@ MUI开发 http://edu.51cto.com/course/8001.html?edu_recommend_adid=87
 技术胖博客 http://jspang.com/
 
 游龙博客 http://www.youlongit.com/
+
+撒网要见鱼 http://www.dailichun.com/
 
 github [https://www.github.com](https://www.github.com)
 
