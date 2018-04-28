@@ -8,8 +8,6 @@ SVG背景图制作 https://www.svgbackgrounds.com/
 
 同步测试工具 http://www.browsersync.cn/
 
-Mock.js 模拟数据生成器 [http://mockjs.com](http://mockjs.com/)
-
 bootstrap按钮样式生成器 http://blog.koalite.com/bbg/
 
 loading动画样式生成器 http://loading.awesomes.cn/
@@ -19,6 +17,8 @@ loading动画样式生成器 http://loading.awesomes.cn/
 查看页面HTML大纲 http://h5o.github.io/
 
 分析用户的 GitHub 数据的网站 https://gitfa.me/
+
+生成漂亮代码截图的网站 https://carbon.now.sh
 
 ## 插件/资源：
 
