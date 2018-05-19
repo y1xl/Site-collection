@@ -80,6 +80,8 @@ segmentfault https://segmentfault.com/
 
 ## 综合：
 
+很全的IT技能树图 https://github.com/TeamStuQ/skill-map
+
 前端人的俱乐部 http://f2er.club/
 
 慕课网 https://www.imooc.com/
