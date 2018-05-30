@@ -60,6 +60,8 @@ js模块化 https://segmentfault.com/a/1190000012464333#articleHeader9
 
 阮一峰的网络日志 http://www.ruanyifeng.com/blog/
 
+廖雪峰的官方网站 https://www.liaoxuefeng.com/
+
 技术胖博客 http://jspang.com/
 
 游龙博客 http://www.youlongit.com/
