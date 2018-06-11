@@ -68,6 +68,8 @@ js模块化 https://segmentfault.com/a/1190000012464333#articleHeader9
 
 撒网要见鱼 http://www.dailichun.com/
 
+凹凸实验室 https://aotu.io/
+
 github [https://www.github.com](https://www.github.com)
 
 开源中国 https://www.oschina.net/
@@ -80,7 +82,7 @@ segmentfault https://segmentfault.com/
 
 掘金 https://juejin.im/ ----个人掘金 https://juejin.im/user/5ac5964c6fb9a028b86e3e4d
 
-## 综合：
+## 综合/其他：
 
 很全的IT技能树图 https://github.com/TeamStuQ/skill-map
 
