@@ -54,7 +54,13 @@ js教程 http://javascript.info/
 
 js模块化 https://segmentfault.com/a/1190000012464333#articleHeader9
 
+JavaScript常用数组操作方法 https://segmentfault.com/a/1190000016503330
 
+jQuery API 中文文档 http://www.css88.com/jqapi-1.9/
+
+Lodash 中文文档  http://www.css88.com/doc/lodash/
+
+CSS参考手册 http://www.css88.com/book/css/
 
 ## 博客/社区：
 
