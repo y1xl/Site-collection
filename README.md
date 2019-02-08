@@ -36,6 +36,8 @@ jQuery插件库 http://www.jq22.com/
 
 内網穿透服務 `[` https://natapp.cn/ , https://ngrok.com/ , http://ngrok.2bdata.com/ , http://www.ultrahook.com/ `]`
 
+国内常用CDN公共库 https://blog.wpjam.com/m/static-cdn-services/
+
 ## 教程/技术：
 
 菜鸟教程 http://www.runoob.com/
