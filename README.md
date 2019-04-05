@@ -76,9 +76,9 @@ CSS参考手册 http://www.css88.com/book/css/
 
 撒网要见鱼 http://www.dailichun.com/
 
-凹凸实验室 https://aotu.io/
+前端小而全的知识归纳 https://segmentfault.com/blog/lanzhsh
 
-github [https://www.github.com](https://www.github.com)
+凹凸实验室 https://aotu.io/
 
 开源中国 https://www.oschina.net/
 
@@ -99,5 +99,3 @@ segmentfault https://segmentfault.com/
 慕课网 https://www.imooc.com/
 
 极客学院 http://www.jikexueyuan.com/
-
-最全前端资源汇集 https://segmentfault.com/a/1190000004978770
