@@ -58,6 +58,8 @@ js模块化 https://segmentfault.com/a/1190000012464333#articleHeader9
 
 JavaScript常用数组操作方法 https://segmentfault.com/a/1190000016503330
 
+30 seconds of code https://www.html.cn/30-seconds-of-code/
+
 jQuery API 中文文档 http://www.css88.com/jqapi-1.9/
 
 Lodash 中文文档  http://www.css88.com/doc/lodash/
