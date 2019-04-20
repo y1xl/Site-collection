@@ -72,6 +72,8 @@ CSS参考手册 http://www.css88.com/book/css/
 
 廖雪峰的官方网站 https://www.liaoxuefeng.com/
 
+张鑫旭的个人主页 https://www.zhangxinxu.com/
+
 技术胖博客 http://jspang.com/
 
 游龙博客 http://www.youlongit.com/
