@@ -78,7 +78,6 @@ CSS参考手册 http://www.css88.com/book/css/
 
 撒网要见鱼 http://www.dailichun.com/
 
-前端小而全的知识归纳 https://segmentfault.com/blog/lanzhsh
 
 凹凸实验室 https://aotu.io/
 
