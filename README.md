@@ -16,9 +16,11 @@ loading动画样式生成器 http://loading.awesomes.cn/
 
 查看页面HTML大纲 http://h5o.github.io/
 
-分析用户的 GitHub 数据的网站 https://gitfa.me/
-
 生成漂亮代码截图的网站 https://carbon.now.sh
+
+生成好看的默认头像 https://getavataaars.com/
+
+兼容速查 https://caniuse.com/#home
 
 ## 插件/资源：
 
