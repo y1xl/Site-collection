@@ -82,9 +82,6 @@ CSS参考手册 http://www.css88.com/book/css/
 
 撒网要见鱼 http://www.dailichun.com/
 
-
-凹凸实验室 https://aotu.io/
-
 开源中国 https://www.oschina.net/
 
 大前端 http://www.daqianduan.com/
