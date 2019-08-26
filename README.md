@@ -8,12 +8,6 @@ SVG背景图制作 https://www.svgbackgrounds.com/
 
 同步测试工具 http://www.browsersync.cn/
 
-bootstrap按钮样式生成器 http://blog.koalite.com/bbg/
-
-loading动画样式生成器 http://loading.awesomes.cn/
-
-在线图片滤镜效果可视化工具 http://filter.awesomes.cn/
-
 查看页面HTML大纲 http://h5o.github.io/
 
 生成漂亮代码截图的网站 https://carbon.now.sh
@@ -54,8 +48,6 @@ ES6入门 http://es6.ruanyifeng.com/
 
 css教程 https://cssreference.io/
 
-js教程 http://javascript.info/
-
 js模块化 https://segmentfault.com/a/1190000012464333#articleHeader9
 
 一次掌握 JavaScript ES5 到 ES8 数组内容 https://hufangyun.com/2017/array-learn/
@@ -85,8 +77,6 @@ CSS参考手册 http://www.css88.com/book/css/
 开源中国 https://www.oschina.net/
 
 大前端 http://www.daqianduan.com/
-
-前端网 https://www.qdfuns.com/
 
 segmentfault https://segmentfault.com/
 
