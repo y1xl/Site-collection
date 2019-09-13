@@ -40,8 +40,6 @@ jQuery插件库 http://www.jq22.com/
 
 MDN文档 https://developer.mozilla.org/zh-CN/
 
-腾讯移动Web前端知识库 [https://github.com/AlloyTeam/Mars](https://github.com/AlloyTeam/Mars)
-
 图解phpstorm常用快捷键 https://www.cnblogs.com/xp796/p/5718321.html
 
 ES6入门 http://es6.ruanyifeng.com/
@@ -59,6 +57,8 @@ jQuery API 中文文档 http://www.css88.com/jqapi-1.9/
 Lodash 中文文档  http://www.css88.com/doc/lodash/
 
 CSS参考手册 http://www.css88.com/book/css/
+
+开发者手册 https://cloud.tencent.com/developer/devdocs
 
 ## 博客/社区：
 
