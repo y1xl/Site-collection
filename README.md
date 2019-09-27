@@ -44,13 +44,11 @@ MDN文档 https://developer.mozilla.org/zh-CN/
 
 ES6入门 http://es6.ruanyifeng.com/
 
-css教程 https://cssreference.io/
-
-js模块化 https://segmentfault.com/a/1190000012464333#articleHeader9
-
 一次掌握 JavaScript ES5 到 ES8 数组内容 https://hufangyun.com/2017/array-learn/
 
 30 seconds of code https://www.html.cn/30-seconds-of-code/
+
+各种页面常见布局 https://www.sweet-kk.top/css-layout/#/
 
 jQuery API 中文文档 http://www.css88.com/jqapi-1.9/
 
@@ -59,6 +57,8 @@ Lodash 中文文档  http://www.css88.com/doc/lodash/
 CSS参考手册 http://www.css88.com/book/css/
 
 开发者手册 https://cloud.tencent.com/developer/devdocs
+
+vue2.x学习笔记 https://www.kancloud.cn/cooldrw2015/vue_2/1155004
 
 ## 博客/社区：
 
